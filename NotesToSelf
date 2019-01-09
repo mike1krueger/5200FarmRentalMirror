@@ -1,0 +1,4 @@
+ Working with bitbucket and git
+ 
+ Setup remote repository 
+ git remote add origin ssh://git@bitbucket.org/mjkrueger/5200farmrental.git
