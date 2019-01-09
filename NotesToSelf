@@ -1,4 +1,20 @@
  Working with bitbucket and git
  
+Using terminal window - change directory to 5200FarmRental
+
  Setup remote repository 
  git remote add origin ssh://git@bitbucket.org/mjkrueger/5200farmrental.git
+ git fetch origin
+ git branch Synch_Files_With_GoDaddyV2 (make a new branch to reset project to match goDaddy file system
+ git checkout Synch_Files_With_GoDaddyV2
+ -replace project files from goDaddy FTP to local
+ git add . (add any new files)
+ git commit -m "updated files to match goDaddy"
+ git push origin Synch_Files_With_GoDaddyV2 (push files to bit bucket)
+ 
+ Helpful tips on branching
+ https://www.atlassian.com/git/tutorials/learn-branching-with-bitbucket-cloud
+ 
+ Fairly advanced explanation of git
+ https://rubygarage.org/blog/most-basic-git-commands-with-examples
+ 
