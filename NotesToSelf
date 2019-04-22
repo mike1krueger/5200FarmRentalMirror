@@ -15,10 +15,15 @@ Move 5200FarmRental project to github repository
  ..make changes to files using Aptana and then add new/changed files to repository
  Terminal> git add -all
  
- #commit changes in brach
+ #commit changes in branch
  
  # Pushes the changes in your local repository up to the remote repository you specified as the origin
- Terminal> git push origin updateNotes 
+ 
+ Terminal> 
+ git checkout master
+ git pull origin master
+ git merge updateNotes
+ git push origin master
  
   
  
