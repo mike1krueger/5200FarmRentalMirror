@@ -10,4 +10,5 @@ Simple web site - started with bootstrap template
 ## Running the tests
 
 Does index.html display in your browser.  
+
 Look for tools to automate testing
