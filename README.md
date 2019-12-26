@@ -1,6 +1,6 @@
 # Project Title
 
-Static Page used when renting house
+Website used when looking for renters for log cabin house
 
 ## Getting Started
 
