@@ -4,7 +4,7 @@ Static Page used when renting house
 
 ## Getting Started
 
-Simple web site - started with bootstrap template
+backup of log house rental website Dec 2019
 
 
 ## Running the tests
